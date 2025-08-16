@@ -1,0 +1,243 @@
+{
+  "@@locale": "en",
+  "appTitle": "30-Day Flutter + Web + AI Development Project",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "projectPurpose": "Project Purpose",
+  "@projectPurpose": {
+    "description": "Project purpose section title"
+  },
+  "projectDescription": "This project is a comprehensive study repository created to support your 30-day Flutter learning plan.",
+  "@projectDescription": {
+    "description": "Main project description"
+  },
+  "week1Title": "Week 1 - Flutter & Web Modernization",
+  "@week1Title": {
+    "description": "Week 1 title"
+  },
+  "day1Title": "Day 1: Flutter 3.27+ Updates and Material 3",
+  "@day1Title": {
+    "description": "Day 1 title"
+  },
+  "day1Description": "What's New in Flutter, Material 3 widgets, Impeller Rendering",
+  "@day1Description": {
+    "description": "Day 1 description"
+  },
+  "day2Title": "Day 2: State Management (Riverpod 3)",
+  "@day2Title": {
+    "description": "Day 2 title"
+  },
+  "day2Description": "Modern state management with Riverpod",
+  "@day2Description": {
+    "description": "Day 2 description"
+  },
+  "day3Title": "Day 3: Responsive & Adaptive Layout",
+  "@day3Title": {
+    "description": "Day 3 title"
+  },
+  "day3Description": "LayoutBuilder, MediaQuery and adaptive design",
+  "@day3Description": {
+    "description": "Day 3 description"
+  },
+  "day4Title": "Day 4: Web Performance Optimization",
+  "@day4Title": {
+    "description": "Day 4 title"
+  },
+  "day4Description": "Deferred Components, CanvasKit vs HTML, optimization",
+  "@day4Description": {
+    "description": "Day 4 description"
+  },
+  "day5Title": "Day 5: SEO and Web Metadata",
+  "@day5Title": {
+    "description": "Day 5 title"
+  },
+  "day5Description": "seo_renderer, meta tags, route-based titles",
+  "@day5Description": {
+    "description": "Day 5 description"
+  },
+  "day6Title": "Day 6: Mini Project (Responsive Web App)",
+  "@day6Title": {
+    "description": "Day 6 title"
+  },
+  "day6Description": "Responsive web + SEO meta + Lazy load",
+  "@day6Description": {
+    "description": "Day 6 description"
+  },
+  "flutterUpdatesTitle": "Flutter 3.27+ Updates",
+  "@flutterUpdatesTitle": {
+    "description": "Flutter updates section title"
+  },
+  "flutterUpdatesDescription": "In this section, we will explore Flutter's latest features and test the Material 3 design system.",
+  "@flutterUpdatesDescription": {
+    "description": "Flutter updates description"
+  },
+  "material3Components": "Material 3 Components",
+  "@material3Components": {
+    "description": "Material 3 components section title"
+  },
+  "buttons": "Buttons",
+  "@buttons": {
+    "description": "Buttons section title"
+  },
+  "segmentedButton": "Segmented Button",
+  "@segmentedButton": {
+    "description": "Segmented button section title"
+  },
+  "cardsContainers": "Cards and Containers",
+  "@cardsContainers": {
+    "description": "Cards and containers section title"
+  },
+  "filledCard": "Filled Card",
+  "@filledCard": {
+    "description": "Filled card label"
+  },
+  "outlinedCard": "Outlined Card",
+  "@outlinedCard": {
+    "description": "Outlined card label"
+  },
+  "impellerRenderingEngine": "Impeller Rendering Engine",
+  "@impellerRenderingEngine": {
+    "description": "Impeller rendering engine title"
+  },
+  "impellerDescription": "Impeller is Flutter's new rendering engine. It provides better performance and less jank.",
+  "@impellerDescription": {
+    "description": "Impeller description"
+  },
+  "impellerActive": "Impeller Active",
+  "@impellerActive": {
+    "description": "Impeller active label"
+  },
+  "renderingEngineSelection": "Rendering engine selection (demo purpose)",
+  "@renderingEngineSelection": {
+    "description": "Rendering engine selection subtitle"
+  },
+  "impellerActiveStatus": "✅ Impeller: Active - Better performance!",
+  "@impellerActiveStatus": {
+    "description": "Impeller active status message"
+  },
+  "skiaOldEngine": "⚠️ Skia: Old rendering engine",
+  "@skiaOldEngine": {
+    "description": "Skia old engine message"
+  },
+  "otherNewFeatures": "Other New Features",
+  "@otherNewFeatures": {
+    "description": "Other new features section title"
+  },
+  "webPerformanceImprovements": "Web Performance Improvements",
+  "@webPerformanceImprovements": {
+    "description": "Web performance improvements feature title"
+  },
+  "webPerformanceDescription": "Faster loading and better SEO support",
+  "@webPerformanceDescription": {
+    "description": "Web performance description"
+  },
+  "securityUpdates": "Security Updates",
+  "@securityUpdates": {
+    "description": "Security updates feature title"
+  },
+  "securityDescription": "More secure APIs and dependency updates",
+  "@securityDescription": {
+    "description": "Security description"
+  },
+  "developerExperience": "Developer Experience",
+  "@developerExperience": {
+    "description": "Developer experience feature title"
+  },
+  "developerDescription": "Better hot reload and debugging tools",
+  "@developerDescription": {
+    "description": "Developer experience description"
+  },
+  "platformIntegration": "Platform Integration",
+  "@platformIntegration": {
+    "description": "Platform integration feature title"
+  },
+  "platformDescription": "Better native integration for iOS and Android",
+  "@platformDescription": {
+    "description": "Platform integration description"
+  },
+  "day1Tasks": "Day 1 Tasks",
+  "@day1Tasks": {
+    "description": "Day 1 tasks section title"
+  },
+  "task1": "Read What's New in Flutter",
+  "@task1": {
+    "description": "Task 1 description"
+  },
+  "task2": "Test Material 3 widgets",
+  "@task2": {
+    "description": "Task 2 description"
+  },
+  "task3": "Read Impeller Rendering",
+  "@task3": {
+    "description": "Task 3 description"
+  },
+  "task4": "Enable Material 3 + Impeller in empty project",
+  "@task4": {
+    "description": "Task 4 description"
+  },
+  "completeDay1": "Complete Day 1",
+  "@completeDay1": {
+    "description": "Complete day 1 button text"
+  },
+  "congratulationsMessage": "Congratulations! You have completed Day 1 tasks! 🎉",
+  "@congratulationsMessage": {
+    "description": "Congratulations message"
+  },
+  "filledButtonClicked": "FilledButton clicked!",
+  "@filledButtonClicked": {
+    "description": "Filled button clicked message"
+  },
+  "day": "Day",
+  "@day": {
+    "description": "Day label"
+  },
+  "week": "Week",
+  "@week": {
+    "description": "Week label"
+  },
+  "month": "Month",
+  "@month": {
+    "description": "Month label"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Change language button text"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language name"
+  },
+  "turkish": "Turkish",
+  "@turkish": {
+    "description": "Turkish language name"
+  },
+  "impellerVsSkia": "Impeller vs Skia Comparison",
+  "@impellerVsSkia": {
+    "description": "Impeller vs Skia comparison title"
+  },
+  "performance": "Performance",
+  "@performance": {
+    "description": "Performance label"
+  },
+  "memoryUsage": "Memory Usage",
+  "@memoryUsage": {
+    "description": "Memory usage label"
+  },
+  "batteryLife": "Battery Life",
+  "@batteryLife": {
+    "description": "Battery life label"
+  },
+  "animationSmoothness": "Animation Smoothness",
+  "@animationSmoothness": {
+    "description": "Animation smoothness label"
+  },
+  "renderingSpeed": "Rendering Speed",
+  "@renderingSpeed": {
+    "description": "Rendering speed label"
+  },
+  "currentEngine": "Current Engine",
+  "@currentEngine": {
+    "description": "Current engine label"
+  }
+} 
