@@ -454,6 +454,18 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Current Engine'**
   String get currentEngine;
+
+  /// Day 2 tasks section title
+  ///
+  /// In en, this message translates to:
+  /// **'Day 2 Tasks'**
+  String get day2Tasks;
+
+  /// Complete day 2 button text
+  ///
+  /// In en, this message translates to:
+  /// **'Complete Day 2'**
+  String get completeDay2;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

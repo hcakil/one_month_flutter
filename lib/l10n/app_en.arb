@@ -239,5 +239,13 @@
   "currentEngine": "Current Engine",
   "@currentEngine": {
     "description": "Current engine label"
+  },
+  "day2Tasks": "Day 2 Tasks",
+  "@day2Tasks": {
+    "description": "Day 2 tasks section title"
+  },
+  "completeDay2": "Complete Day 2",
+  "@completeDay2": {
+    "description": "Complete day 2 button text"
   }
 } 

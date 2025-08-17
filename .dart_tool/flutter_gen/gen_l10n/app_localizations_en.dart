@@ -187,4 +187,10 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get currentEngine => 'Current Engine';
+
+  @override
+  String get day2Tasks => 'Day 2 Tasks';
+
+  @override
+  String get completeDay2 => 'Complete Day 2';
 }

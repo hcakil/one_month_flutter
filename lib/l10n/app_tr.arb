@@ -59,5 +59,7 @@
   "batteryLife": "Batarya Ömrü",
   "animationSmoothness": "Animasyon Akıcılığı",
   "renderingSpeed": "Rendering Hızı",
-  "currentEngine": "Mevcut Engine"
+  "currentEngine": "Mevcut Engine",
+  "day2Tasks": "Gün 2 Görevleri",
+  "completeDay2": "Gün 2'yi Tamamla"
 } 

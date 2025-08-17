@@ -187,4 +187,10 @@ class AppLocalizationsTr extends AppLocalizations {
 
   @override
   String get currentEngine => 'Mevcut Engine';
+
+  @override
+  String get day2Tasks => 'Gün 2 Görevleri';
+
+  @override
+  String get completeDay2 => 'Gün 2\'yi Tamamla';
 }
