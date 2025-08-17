@@ -73,7 +73,7 @@ one_month_flutter/
 │       ├── day4_web_performance.dart
 │       ├── day5_seo_metadata.dart
 │       └── day6_mini_project_web.dart
-├── week1_flutter_web/              # 🔵 Week 1: Flutter & Web
+├── week1_geflutter_web/              # 🔵 Week 1: Flutter & Web
 ├── week2_ai_integration/           # 🟢 Week 2: AI Integration
 ├── week3_fullstack/               # 🟡 Week 3: Fullstack
 ├── week4_portfolio/               # 🟣 Week 4: Portfolio
