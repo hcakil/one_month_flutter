@@ -1,4 +1,4 @@
-#!/bin/bash
+s#!/bin/bash
 
 echo "🚀 30 Günlük Flutter Gelişim Projesi - Kurulum Scripti"
 echo "======================================================"

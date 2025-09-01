@@ -37,6 +37,20 @@
   <script>
     // The value below is injected by flutter build, do not touch.
     var serviceWorkerVersion = null;
+    
+    // Dynamic renderer configuration
+    function getRendererFromURL() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const renderer = urlParams.get('renderer');
+      return renderer || 'html'; // Default to HTML, but allow override
+    }
+    
+    // Set Flutter configuration based on URL parameter
+    window.flutterConfiguration = {
+      renderer: getRendererFromURL()
+    };
+    
+    console.log('Flutter renderer set to:', window.flutterConfiguration.renderer);
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
