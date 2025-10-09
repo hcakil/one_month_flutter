@@ -49,6 +49,12 @@ if [ $? -eq 0 ]; then
     echo "1. Copy contents of ./build/web to a 'docs' folder"
     echo "2. Push the 'docs' folder to your repository"
     echo "3. Enable GitHub Pages with 'docs' as source"
+    echo ""
+    echo "📁 Copying build files to docs folder for manual deployment..."
+    mkdir -p docs
+    cp -r build/web/* docs/
+    echo "✅ Files copied to docs/ folder"
+    echo "   You can now push with: git add docs/ && git commit -m 'Deploy' && git push"
 else
     echo "❌ Build failed. Please check the errors above."
     exit 1
