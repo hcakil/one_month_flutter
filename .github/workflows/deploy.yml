@@ -28,7 +28,7 @@ jobs:
       run: flutter gen-l10n
       
     - name: Build Flutter Web
-      run: flutter build web --release --web-renderer html --base-href /one_month_flutter/
+      run: flutter build web --release --base-href /one_month_flutter/
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

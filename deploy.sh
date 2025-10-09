@@ -27,9 +27,9 @@ flutter pub get
 echo "🌍 Generating localization files..."
 flutter gen-l10n
 
-# Build for web with HTML renderer (better for GitHub Pages)
+# Build for web (Flutter automatically chooses the best renderer)
 echo "🔨 Building Flutter web app..."
-flutter build web --release --web-renderer html --base-href /one_month_flutter/
+flutter build web --release --base-href /one_month_flutter/
 
 # Check if build was successful
 if [ $? -eq 0 ]; then
