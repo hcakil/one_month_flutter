@@ -86,7 +86,7 @@ final _router = GoRouter(
     ),
     GoRoute(
       path: '/week1/day6',
-      builder: (context, state) => const Day6MiniProjectWebScreen(),
+      builder: (context, state) => const Day6Screen(),
     ),
   ],
 );
